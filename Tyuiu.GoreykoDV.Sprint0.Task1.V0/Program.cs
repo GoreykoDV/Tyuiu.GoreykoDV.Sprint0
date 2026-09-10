@@ -14,6 +14,7 @@ namespace Tyuiu.GoreykoDV.Sprint0.Task1.V0
         {
             Console.WriteLine("Hello, World");
             string name = "Dasha";
+
             int age = 20;
             Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " лет!");
             Console.ReadKey();
