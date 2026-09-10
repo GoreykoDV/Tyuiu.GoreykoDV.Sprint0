@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tyuiu.GoreykoDV.Sprint0.Task0.V0
 {
-    class Program
+    internal class Program
     {
         static void Main(string[] args)
         {
