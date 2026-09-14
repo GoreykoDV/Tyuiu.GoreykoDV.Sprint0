@@ -12,6 +12,7 @@ namespace using_Tyuiu.GoreykoDV.Sprint0.Task2.V1.Test
             var res = DataService.GetMessage(name);
 
             Assert.AreEqual("Привет, Dasha", res);
+        
         }
     }
 }
